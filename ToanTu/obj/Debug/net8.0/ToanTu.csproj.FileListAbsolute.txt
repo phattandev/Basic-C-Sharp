@@ -1,0 +1,14 @@
+D:\Hoc C#\Basic\Basic\ToanTu\bin\Debug\net8.0\ToanTu.exe
+D:\Hoc C#\Basic\Basic\ToanTu\bin\Debug\net8.0\ToanTu.deps.json
+D:\Hoc C#\Basic\Basic\ToanTu\bin\Debug\net8.0\ToanTu.runtimeconfig.json
+D:\Hoc C#\Basic\Basic\ToanTu\bin\Debug\net8.0\ToanTu.dll
+D:\Hoc C#\Basic\Basic\ToanTu\bin\Debug\net8.0\ToanTu.pdb
+D:\Hoc C#\Basic\Basic\ToanTu\obj\Debug\net8.0\ToanTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc C#\Basic\Basic\ToanTu\obj\Debug\net8.0\ToanTu.AssemblyInfoInputs.cache
+D:\Hoc C#\Basic\Basic\ToanTu\obj\Debug\net8.0\ToanTu.AssemblyInfo.cs
+D:\Hoc C#\Basic\Basic\ToanTu\obj\Debug\net8.0\ToanTu.csproj.CoreCompileInputs.cache
+D:\Hoc C#\Basic\Basic\ToanTu\obj\Debug\net8.0\ToanTu.dll
+D:\Hoc C#\Basic\Basic\ToanTu\obj\Debug\net8.0\refint\ToanTu.dll
+D:\Hoc C#\Basic\Basic\ToanTu\obj\Debug\net8.0\ToanTu.pdb
+D:\Hoc C#\Basic\Basic\ToanTu\obj\Debug\net8.0\ToanTu.genruntimeconfig.cache
+D:\Hoc C#\Basic\Basic\ToanTu\obj\Debug\net8.0\ref\ToanTu.dll
